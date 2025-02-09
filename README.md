@@ -4,9 +4,9 @@
 Repositorio con archivos `main` para testear proyectos en C del cursus 42.
 
 ## 📂 Contenido
-- `main_libft.c` → Prueba `libft`
-- `main_gnl.c` → Prueba `get_next_line`
-- `main_ft_printf.c` → Prueba `ft_printf`
+- `main_libft` → Prueba `libft`
+- `main_gnl` → Prueba `get_next_line`
+- `main_ft_printf` → Prueba `ft_printf`
 
 ## 🚀 Uso
 ```sh
