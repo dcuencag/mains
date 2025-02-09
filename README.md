@@ -1,18 +1,18 @@
 # 🛠️ Mains Repository
 
-## 📌 Descripción
-Repositorio con archivos `main` para testear proyectos en C del cursus 42.
+## 📌 Description
+Repository containing `main` files for testing C projects from the 42 cursus.
 
-## 📂 Contenido
-- `main_libft` → Prueba `libft`
-- `main_gnl` → Prueba `get_next_line`
-- `main_ft_printf` → Prueba `ft_printf`
+## 📂 Contents
+- `main_libft` → Tests `libft`
+- `main_gnl` → Tests `get_next_line`
+- `main_ft_printf` → Tests `ft_printf`
 
-## 🚀 Uso
+## 🚀 Usage
 ```sh
 $ gcc main_libft.c -L../libft -lft -o test_libft
 $ ./test_libft
 ```
 
-## 📫 Contacto
+## 📫 Contact
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dcuencag)
